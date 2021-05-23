@@ -88,7 +88,6 @@ sphinxcontrib-serializinghtml==1.1.5
 sqlparse==0.4.1
 toml==0.10.2
 Twisted==21.2.0
-twisted-iocpsupport==1.0.1
 txaio==21.2.1
 urllib3==1.26.4
 virtualenv==20.4.6
