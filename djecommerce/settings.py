@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-aonhtft5@bs%$5b#t-qo%6+*_q#xse_2z+0d!d=sgajem(^56f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://future-store.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['future-store.herokuapp.com', '127.0.0.1']
 # Application definition
 
 INSTALLED_APPS = [
