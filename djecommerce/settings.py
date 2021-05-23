@@ -48,7 +48,6 @@ INSTALLED_APPS = [
     'django_countries',
     'rest_framework',
     'channels',
-    'favicon',
 
 ]
 
@@ -147,7 +146,6 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static')
 ]
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
-FAVICON_PATH = STATIC_URL + 'images/favicon.png'
 
 
 MEDIA_URL = '/img/'
