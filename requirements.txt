@@ -55,6 +55,7 @@ pep517==0.10.0
 pguard==0.4.0
 Pillow==8.2.0
 pip-tools==6.1.0
+gunicorn==20.1.0
 protobuf==3.17.0
 psycopg2==2.8.6
 pyasn1==0.4.8
